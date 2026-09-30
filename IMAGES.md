@@ -1,6 +1,8 @@
 # Images for ONDE (Cyber Monday Site 1)
 
-Generate these with any AI image tool (ChatGPT, Gemini, Midjourney…), then:
+All listed images are now included as compressed WebP assets generated with the built-in image generation tool. Exact prompts are saved in [IMAGE-PROMPTS.md](IMAGE-PROMPTS.md).
+
+To replace or regenerate them:
 
 1. Convert to **WebP** and compress to **under 200 KB** each (squoosh.app or tinypng.com).
 2. Save them with the **exact file name** below in `public/images/`.
