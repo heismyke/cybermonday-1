@@ -81,3 +81,5 @@ Netlify → *Add new site* → *Import from GitHub* → `team-q4-calibrage/cyber
 - Add the images from [IMAGES.md](IMAGES.md).
 - Replace the placeholder WhatsApp number (`whatsapp` in `src/data/product.js`).
 - Keep this repo **private**; share the live link only in the team group.
+
+# cybermonday-1
